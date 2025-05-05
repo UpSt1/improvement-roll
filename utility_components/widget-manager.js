@@ -1,4 +1,4 @@
-import { NativeModules, Platform } from 'react-native';
+import { NativeModules, Platform } from 'react-native'; 
 import { rollFromCategory, rollFromAnyCategory, getCategoryNames } from './roll-helper';
 
 const { AppFeatures } = NativeModules;
