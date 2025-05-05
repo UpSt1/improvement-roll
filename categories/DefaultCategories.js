@@ -1,4 +1,4 @@
-const generalCategory = { 
+const generalCategory = {  
   name: "General",
   timeSensitive: true,
   description: "A mix of physical, creative, organizational and social tasks",
