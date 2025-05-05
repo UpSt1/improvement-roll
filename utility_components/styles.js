@@ -1,4 +1,4 @@
-import { View, StyleSheet, SafeAreaView } from 'react-native';
+import { View, StyleSheet, SafeAreaView } from 'react-native'; 
 export default class StyleSheetFactory {
   static getSheet(themeBackgroundColor) {
     return StyleSheet.create({
