@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-/**
+/** 
  * Gets all categories from storage
  * @returns {Promise<Array>} Categories array
  */
