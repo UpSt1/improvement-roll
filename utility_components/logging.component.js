@@ -1,4 +1,3 @@
-
 import { logger, fileAsyncTransport } from "react-native-logs";
 import RNFS from 'react-native-fs';
 import { check, PERMISSIONS, RESULTS } from 'react-native-permissions';
