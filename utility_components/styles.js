@@ -3,7 +3,7 @@ export default class StyleSheetFactory {
   static getSheet(themeBackgroundColor) {
     return StyleSheet.create({
       centered_container: {
-        flex: 1,
+        flex: 1, 
         alignItems: 'center',
         justifyContent: 'flex-start',
         backgroundColor: themeBackgroundColor,
